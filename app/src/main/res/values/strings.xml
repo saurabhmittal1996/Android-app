@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">StarkeyComics</string>
+    <string name="membership">Buy Membership for $10</string>
+    <string name="img_desc_flase_cognates">20 Pairs of flase cognates</string>
+    <string name="img_desc_dizzying_doublates">Etymological tree of *ǵenh₁</string>
+    <string name="desc_false_cognates">False cognates are pairs of words that seem related, but aren’t. Here are some of these amazing linguistic coincidences. What are False cognates?</string>
+    <string name="desc_dizzying_doublates">Have you ever wondered why the word ‘language’ sounds so similar to the word ‘tongue’? Probably not, because those words sound totally different. So you may be surprised to know that both come from the same origin, a word used around 6000 years ago in a language called Proto-Indo-European (PIE)</string>
+    <string name="text_false_cognates_1">False cognates are pairs of words that seem related, but aren’t. Here are some of these amazing linguistic coincidences. What are False Congates?</string>
+    <string name="text_false_cognates_2">If you read my last post, Dizzying Doublets, you’ll see that sometimes words that seem totally different, like “nation” and “king”, or “gonads” and “genius”, can be distantly related. Words like this, which share a common root word, are called “cognates”.  Cognates are everywhere, connecting words in many different languages. It’s no coincidence that Portuguese chá and Vietnamese trà are pronounced almost the same, because they are both borrowed from Chinese chá. The similarities between the English word “two”, the Norwegian “to”, Farsi “du” and Lithuanian “du” are explained by their common ancestry: they’re all from the Proto-Indo-European (PIE) word *dwóh₁.  My last post was about words that seem unrelated but aren’t: cognates.  This post is about the exact opposite: words that seem related, but aren’t: false cognates.  For example, who would have guessed that the English words “island” and “isle” aren’t related? But they aren’t! They come from totally different origins, and the similarity in the way they sound is purely coincidental. The world of words is full of strange coincidences like this.   Here are 20 different pairs of words that sound similar, and have the same (or very similar) meanings, but are totally unrelated. I’ve also shown the origins of each word, to clearly show their separate origins.</string>
+    <string name="text_dizzying_doublates_1">Have you ever wondered why the word \'language\' sounds so similar to the word ‘tongue’? Probably not, because those words sound totally different. So you may be surprised to know that both come from the same origin, a word used around 6000 years ago in a language called Proto-Indo-European (PIE). That word was something like ‘dn̥ǵʰwéh₂s’ (don’t even ask me how to pronounce that), and probably meant ‘tongue’. After the PIE language spread into Europe, it split into many different languages, and sounds shifted in different ways depending on the language. In the Proto-Germanic language of northern Europe, dn̥ǵʰwéh₂s became ‘*tungǭ’, and eventually English “tongue”. In Latin, the word turned into ‘dingua’, and later ‘lingua’, which evolved into old French as ‘language’, before finally being borrowed into English. These two words are therefore distant cousins. ‘Linguistics’ is also a cousin.</string>
+    <string name="default_username">Username</string>
+    <string name="default_password">Password</string>
+    <string name="desc_login_button">Login</string>
+    <string name="descr_logout">Logout</string>
+
+
+
+    <string name="id_fmt">User ID: %s</string>
+    <string name="email_fmt">Email: %s</string>
+    <string name="descr_login">Login</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948189810792",
+    "firebase_url": "https://starkey-comics.firebaseio.com",
+    "project_id": "starkey-comics",
+    "storage_bucket": "starkey-comics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948189810792:android:4bc8808c6a9fdc50",
+        "android_client_info": {
+          "package_name": "com.example.starkeycomics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948189810792-ktj3ipm7n0rvs07ec0bfrl9j6vsk75jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.starkeycomics",
+            "certificate_hash": "fcd26644a85f63640be8d2de01055effee89ce35"
+          }
+        },
+        {
+          "client_id": "948189810792-3vcc371784qb5d0j05bbochh61j0sdoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcc7cqHyUCBiuNyeHSd3EBXKQcRYIZIUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948189810792-3vcc371784qb5d0j05bbochh61j0sdoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
